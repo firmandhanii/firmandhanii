@@ -125,12 +125,12 @@ GCP VMs, Nginx reverse proxy, PM2 process management, firewall hardening, automa
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=firmandhanii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=firmandhanii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=firmandhanii&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmandhanii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=firmandhanii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" />
 
 </div>
 
